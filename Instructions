@@ -1,0 +1,2 @@
+- Run file PICU_Feeding_System.py to evaluate patients through 5 days.
+- After evaluation, user can choose what to do next based on the prompt on the output screen: input 1 to rank patients, 2 to look up information of a patient.
