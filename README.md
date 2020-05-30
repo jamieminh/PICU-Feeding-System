@@ -8,4 +8,4 @@ the various data that are recorded.
   - The hospital is looking to create a decision support system for the nurses to allow for speed, accuracy and consistency of the process. You are required to produce the core of the system that processes the data and allows the nurse to make an informed decision, quickly and
 consistently
 
-!(https://imgur.com/KNGCtaK)
+![PICU deccision making flowchart] (https://i.imgur.com/KNGCtaK.jpg)
